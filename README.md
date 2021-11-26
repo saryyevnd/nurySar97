@@ -3,7 +3,7 @@
 <a href="https://www.codewars.com/users/nurySar97">
   <img align="left" alt="Nurmuhammet | Saryyev's codewars" src="./icons/codewars.svg" width="30px" />
 </a>
-<a href="https://www.linkedin.com/in/nurmuhammet-saryyev-6430161aa/">
+<a href="https://www.linkedin.com/in/nsaryyev/">
   <img align="left" alt="Nurmuhammet | Saryyev's linkedin" width="30px" src="./icons/linkedIn.svg" />
 </a>
 <a href="https://t.me/UY_Scuty_97">
