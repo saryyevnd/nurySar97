@@ -11,7 +11,7 @@
 </a>
 <br />
 <br />
-I'm Front-end developer, 🚀 now living in Kyiv. Beside's programming, enjoy playing 🎮 CS:GO.
+I'm Front-end developer, 🚀 now living in Germany. Beside's programming, enjoy playing 🎮 CS:GO.
 <br />
 <br />
 
